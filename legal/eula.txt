@@ -1,11 +1,11 @@
 ﻿End User License Agreement
 
-Application: {{APP_NAME}}  
-Developer: {{DEVELOPER_ALIAS}}  
-Effective date: {{EFFECTIVE_DATE}}  
-Document version: {{DOCUMENT_VERSION}}
+Application: Maxmacro  
+Developer: MAXIE  
+Effective date: 07/30/2026  
+Document version: v1.0.0
 
-This End User License Agreement ("EULA") is an agreement between you and {{DEVELOPER_ALIAS}}, an independent individual developer using a public alias. It governs your download, installation, and use of {{APP_NAME}} (the "Application").
+This End User License Agreement ("EULA") is an agreement between you and MAXIE, an independent individual developer using a public alias. It governs your download, installation, and use of Maxmacro (the "Application").
 
 By installing, opening, or using the Application, you agree to this EULA. If you do not agree, do not install or use the Application.
 
@@ -67,7 +67,7 @@ This EULA is governed by the laws of the Republic of the Philippines, without li
 
 10. Contact
 
-Developer: {{DEVELOPER_ALIAS}}  
-Website: {{WEBSITE}}  
-Email: {{SUPPORT_EMAIL}}
+Developer: MAXIE  
+Website: maxie-apps.online  
+Email: support@maxie-apps.online
 

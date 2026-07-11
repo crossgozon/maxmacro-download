@@ -1,17 +1,17 @@
 ﻿Terms of Use
 
-Application: {{APP_NAME}}  
-Developer: {{DEVELOPER_ALIAS}}  
-Effective date: {{EFFECTIVE_DATE}}  
-Document version: {{DOCUMENT_VERSION}}
+Application: Maxmacro  
+Developer: MAXIE  
+Effective date: 07/30/2026  
+Document version: v1.0.0
 
-These Terms of Use ("Terms") govern your use of {{APP_NAME}}, {{WEBSITE}}, official download pages, APIs, update services, validation services, and related online services (together, the "Services"). {{DEVELOPER_ALIAS}} is an independent individual developer using a public alias.
+These Terms of Use ("Terms") govern your use of Maxmacro, maxie-apps.online, official download pages, APIs, update services, validation services, and related online services (together, the "Services"). MAXIE is an independent individual developer using a public alias.
 
 By accessing or using any Service, you agree to these Terms. If you do not agree, do not use the Services.
 
 1. Official Sources
 
-Obtain the Application only from {{WEBSITE}} or another source expressly identified by {{DEVELOPER_ALIAS}} as official. Unauthorized mirrors, modified installers, repackaged downloads, and redistributed copies may be outdated, unsafe, or altered and are not supported.
+Obtain the Application only from maxie-apps.online or another source expressly identified by MAXIE as official. Unauthorized mirrors, modified installers, repackaged downloads, and redistributed copies may be outdated, unsafe, or altered and are not supported.
 
 Making the Application publicly available for free does not grant permission to modify, resell, repackage, mirror, or redistribute it. The Application remains proprietary software and is not placed in the public domain.
 
@@ -71,7 +71,7 @@ These Terms are governed by the laws of the Republic of the Philippines, without
 
 12. Contact
 
-Developer: {{DEVELOPER_ALIAS}}  
-Website: {{WEBSITE}}  
-Email: {{SUPPORT_EMAIL}}
+Developer: MAXIE  
+Website: maxie-apps.online  
+Email: support@maxie-apps.online
 

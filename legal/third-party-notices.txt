@@ -1,6 +1,6 @@
 ﻿Third-Party Notices
 
-This file lists third-party components used by the {{APP_NAME}} Maxmacro
+This file lists third-party components used by the Maxmacro
 desktop release package and related embedded runtime assets. Each component is
 used under the terms of its own license.
 

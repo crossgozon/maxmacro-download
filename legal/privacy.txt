@@ -1,11 +1,11 @@
 ﻿Privacy Policy
 
-Application: {{APP_NAME}}  
-Developer: {{DEVELOPER_ALIAS}}  
-Effective date: {{EFFECTIVE_DATE}}  
-Document version: {{DOCUMENT_VERSION}}
+Application: Maxmacro  
+Developer: MAXIE  
+Effective date: 07/30/2026  
+Document version: v1.0.0
 
-This Privacy Policy explains how {{DEVELOPER_ALIAS}}, an independent individual developer using a public alias, processes information when you use {{APP_NAME}}, {{WEBSITE}}, and related APIs, update, validation, and online services.
+This Privacy Policy explains how MAXIE, an independent individual developer using a public alias, processes information when you use Maxmacro, maxie-apps.online, and related APIs, update, validation, and online services.
 
 The exact information processed depends on the features you use. The Application does not add data collection merely because it is listed as a possibility in this Policy.
 
@@ -91,7 +91,7 @@ Because the Application and Services may be used internationally, information ma
 
 You may stop future online processing by discontinuing connected features and uninstalling the Application, although validation or update requirements may prevent continued use. Local files can be removed through normal Windows file-management or uninstall procedures, subject to backups and system restrictions.
 
-Subject to applicable law and reasonable verification, you may request access to, correction of, deletion or blocking of, restriction of processing, objection to processing, portability of personal information associated with you, or withdrawal of consent where processing is based on consent, by contacting {{SUPPORT_EMAIL}}. You may also raise a privacy complaint through the same contact channel.
+Subject to applicable law and reasonable verification, you may request access to, correction of, deletion or blocking of, restriction of processing, objection to processing, portability of personal information associated with you, or withdrawal of consent where processing is based on consent, by contacting support@maxie-apps.online. You may also raise a privacy complaint through the same contact channel.
 
 Depending on your location, you may have additional mandatory privacy rights, such as the right to know categories of information processed, the right to correct inaccurate information, the right to delete information subject to exceptions, the right to limit certain uses of sensitive information, the right to opt out of sale or sharing where applicable, and the right not to be discriminated against for exercising privacy rights. MAXIE will handle verified requests as required by applicable law.
 
@@ -105,7 +105,7 @@ MAXIE uses reasonable technical and organizational measures appropriate to the A
 
 The Application and Services are not directed to children and are not intentionally designed to collect personal information from children under the minimum age required by applicable law. Users who are not legally able to accept these terms should use the Application only with permission and supervision from a parent or legal guardian, as required by applicable law.
 
-If you believe a child provided personal information through the Application or Services without required permission, contact {{SUPPORT_EMAIL}} so the information can be reviewed and handled as required by applicable law.
+If you believe a child provided personal information through the Application or Services without required permission, contact support@maxie-apps.online so the information can be reviewed and handled as required by applicable law.
 
 8. Changes to This Policy
 
@@ -117,7 +117,7 @@ This Policy is governed by applicable laws of the Republic of the Philippines, i
 
 10. Contact
 
-Developer: {{DEVELOPER_ALIAS}}  
-Website: {{WEBSITE}}  
-Email: {{SUPPORT_EMAIL}}
+Developer: MAXIE  
+Website: maxie-apps.online  
+Email: support@maxie-apps.online
 
