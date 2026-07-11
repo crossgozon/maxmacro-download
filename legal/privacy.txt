@@ -1,0 +1,123 @@
+﻿Privacy Policy
+
+Application: {{APP_NAME}}  
+Developer: {{DEVELOPER_ALIAS}}  
+Effective date: {{EFFECTIVE_DATE}}  
+Document version: {{DOCUMENT_VERSION}}
+
+This Privacy Policy explains how {{DEVELOPER_ALIAS}}, an independent individual developer using a public alias, processes information when you use {{APP_NAME}}, {{WEBSITE}}, and related APIs, update, validation, and online services.
+
+The exact information processed depends on the features you use. The Application does not add data collection merely because it is listed as a possibility in this Policy.
+
+1. Information Processed
+
+Network and service information
+
+Servers and infrastructure providers may process your IP address, request time, requested endpoint, response status, and basic network or security-log information when the Application checks configuration, validates an installation, sends a heartbeat, checks for updates, downloads content, uploads a report, or accesses the website.
+
+This information is used to deliver requests, secure the Services, prevent abuse, diagnose failures, and maintain availability. Basic request logging is normally required for online Services to operate securely.
+
+Application, device, and compatibility information
+
+Validation, heartbeat, update, repair, and report requests may process:
+
+- a hashed machine identifier and a random or server-issued device/application identifier;
+- premium-access status, license-key status, activation status, account or entitlement identifiers, and payment-provider transaction or receipt identifiers where paid access is used;
+- application identifier, application name, application version, and local configuration namespace;
+- computer name and Windows username;
+- Windows or operating-system version and basic compatibility information;
+- application settings or settings-schema version needed for remote settings and compatibility;
+- heartbeat timing and online-status information; and
+- update or repair version, completion status, and file-integrity hashes.
+
+This information is used to identify an installation, apply the correct configuration, validate access or premium access, deliver compatible updates or repairs, enforce required versions, diagnose compatibility issues, and protect application integrity. Some of it is required for validation, update, repair, premium access, or other connected features to work.
+
+Security and integrity information
+
+The Application may process validation results, integrity-check results, executable or package hashes, security events, signs of tampering or network inspection, device status, and whether an installation is outdated, suspended, revoked, compromised, or unauthorized.
+
+This information is used to protect the Application and Services, investigate abuse, prevent modified or unsafe installations from connecting, and support security or repair actions. It may be required for protected online features to work.
+
+Diagnostics, logs, crash information, and reports
+
+When diagnostic reporting or an upload feature is used, the Application may process application version, hashed machine identifier, device identifier, diagnostic level and message, error or crash details, timestamps, and relevant application state. A user-initiated report upload may also include the generated report content, computer name, Windows username, operating-system information, and report metadata.
+
+This information is used to troubleshoot errors, investigate security or compatibility problems, support users, and deliver requested report functionality. Optional user-initiated uploads are not required for unrelated local macro functions, while limited operational or security logs may be required for connected Services.
+
+Payment and premium-access information
+
+If paid access is offered, payments may be processed by third-party payment providers. MAXIE may process limited payment-related records such as transaction identifiers, receipt identifiers, purchase status, refund status, chargeback status, payment-provider account identifiers, access-key status, entitlement status, and support correspondence about billing or access.
+
+MAXIE does not need to receive or store full payment card numbers when payment is handled by a third-party payment provider. Payment providers process payment information under their own terms and privacy practices.
+
+2. How Information Is Used
+
+MAXIE uses applicable information only to:
+
+- provide, validate, maintain, secure, and improve the Application and Services;
+- deliver configuration, updates, repairs, and downloads;
+- provide, verify, renew, suspend, or revoke premium access, license keys, activation keys, and related entitlements;
+- detect tampering, abuse, compromised installations, and unauthorized access;
+- process support requests, refunds, chargebacks, fraud checks, and payment-related disputes;
+- diagnose crashes, errors, performance, and compatibility problems;
+- respond to support, privacy, and security requests; and
+- comply with applicable law and protect legal rights.
+
+Personal information is not sold or rented.
+
+MAXIE does not sell personal information or share it for cross-context behavioral advertising. If that changes, this Policy should be updated before the change takes effect and any legally required opt-out method should be provided.
+
+Where a legal basis is required, MAXIE processes information as needed to provide and secure the Application and Services, perform or enforce applicable terms, maintain legitimate security and operational interests, comply with legal obligations, respond to user requests, or rely on consent where applicable law requires consent.
+
+3. Retention
+
+Different records may require different retention periods. Operational request logs, validation and heartbeat records, security events, diagnostic logs, crash reports, uploaded reports, and account or device-status records are retained only for the period reasonably needed for their stated purpose, security, troubleshooting, backups, and legal obligations.
+
+Records used to protect the Application and Services, including device-status records, validation records, security events, integrity events, abuse-prevention records, and support history, may be retained while the relevant installation, security issue, support request, legal obligation, or Service remains active, and for a reasonable period afterward where needed for security, fraud prevention, troubleshooting, backups, or legal claims.
+
+Information may remain briefly in encrypted backups or security archives after deletion until those copies rotate or are safely removed.
+
+4. Service Providers and Disclosure
+
+Information may be processed by providers that support hosting, databases, content delivery, storage, security, analytics (only if actually enabled), error reporting (only if actually enabled), and other infrastructure. These providers may process information only as needed to supply their services, subject to their own agreements and legal obligations.
+
+The providers actually used are GitHub (source hosting and update/release distribution) and Cloudflare (content delivery, DNS, and network security).
+
+Information may also be disclosed when reasonably necessary to comply with law, respond to lawful requests, investigate abuse or security incidents, or protect users, MAXIE, and the Services. MAXIE does not describe itself as a registered company or legal organization.
+
+Because the Application and Services may be used internationally, information may be processed in countries other than your country of residence, including countries where MAXIE or its service providers operate infrastructure. Those countries may have data-protection laws different from the laws in your location. Where required, MAXIE relies on available legal transfer mechanisms and provider safeguards for international processing.
+
+5. User Choices and Requests
+
+You may stop future online processing by discontinuing connected features and uninstalling the Application, although validation or update requirements may prevent continued use. Local files can be removed through normal Windows file-management or uninstall procedures, subject to backups and system restrictions.
+
+Subject to applicable law and reasonable verification, you may request access to, correction of, deletion or blocking of, restriction of processing, objection to processing, portability of personal information associated with you, or withdrawal of consent where processing is based on consent, by contacting {{SUPPORT_EMAIL}}. You may also raise a privacy complaint through the same contact channel.
+
+Depending on your location, you may have additional mandatory privacy rights, such as the right to know categories of information processed, the right to correct inaccurate information, the right to delete information subject to exceptions, the right to limit certain uses of sensitive information, the right to opt out of sale or sharing where applicable, and the right not to be discriminated against for exercising privacy rights. MAXIE will handle verified requests as required by applicable law.
+
+Include enough information to verify and locate the relevant records without sending passwords, device secrets, government identification, or unnecessary sensitive information. Some information may be retained where required for security, fraud prevention, legal obligations, or the establishment or defense of legal claims.
+
+6. Security
+
+MAXIE uses reasonable technical and organizational measures appropriate to the Application and the information processed. However, no software, device, transmission, or storage system can guarantee complete security. Keep Windows updated, use trusted official downloads, and protect your device and backups.
+
+7. Children
+
+The Application and Services are not directed to children and are not intentionally designed to collect personal information from children under the minimum age required by applicable law. Users who are not legally able to accept these terms should use the Application only with permission and supervision from a parent or legal guardian, as required by applicable law.
+
+If you believe a child provided personal information through the Application or Services without required permission, contact {{SUPPORT_EMAIL}} so the information can be reviewed and handled as required by applicable law.
+
+8. Changes to This Policy
+
+MAXIE may update this Policy when application behavior, providers, or legal requirements change. The effective date and document version will identify the current version. Material changes should be communicated through the Application, website, or another reasonable channel.
+
+9. Governing Privacy Law
+
+This Policy is governed by applicable laws of the Republic of the Philippines, including applicable privacy requirements, without limiting mandatory rights under other applicable law.
+
+10. Contact
+
+Developer: {{DEVELOPER_ALIAS}}  
+Website: {{WEBSITE}}  
+Email: {{SUPPORT_EMAIL}}
+

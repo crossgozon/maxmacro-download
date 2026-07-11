@@ -1,0 +1,73 @@
+﻿End User License Agreement
+
+Application: {{APP_NAME}}  
+Developer: {{DEVELOPER_ALIAS}}  
+Effective date: {{EFFECTIVE_DATE}}  
+Document version: {{DOCUMENT_VERSION}}
+
+This End User License Agreement ("EULA") is an agreement between you and {{DEVELOPER_ALIAS}}, an independent individual developer using a public alias. It governs your download, installation, and use of {{APP_NAME}} (the "Application").
+
+By installing, opening, or using the Application, you agree to this EULA. If you do not agree, do not install or use the Application.
+
+1. License
+
+The Application is licensed, not sold. Subject to this EULA, MAXIE grants you a limited, non-exclusive, non-transferable, and revocable license to download, install, and use the Application on Windows devices that you control for lawful personal use.
+
+The Application may be offered as a free version, a paid version, or a version with optional premium access. Free availability does not make it open source or place it in the public domain.
+
+Premium access, license keys, activation keys, account entitlements, or similar access credentials are licensed for the purchaser's or authorized user's personal use only, unless MAXIE expressly states otherwise in writing. They may not be shared, sold, rented, transferred, published, resold, or used to provide access for unauthorized users.
+
+2. Restrictions
+
+Unless applicable law expressly permits an activity despite these restrictions, you must not:
+
+- sell, rent, sublicense, republish, or commercially exploit the Application;
+- redistribute, mirror, repackage, or bundle the Application without written permission from MAXIE;
+- modify the Application or present a modified or unofficial copy as an official release;
+- impersonate MAXIE or misrepresent your relationship with MAXIE;
+- reverse engineer, decompile, disassemble, or attempt to obtain the source code;
+- bypass or interfere with validation, integrity checks, API checks, update systems, security controls, or access controls; or
+- use the Application for malicious, unlawful, disruptive, abusive, or unauthorized activity, including activity that violates the rules, terms, or access controls of a game, platform, website, application, or third-party service.
+
+You are also responsible for complying with export-control, sanctions, consumer-protection, privacy, and other laws that apply to you in your location. You must not download, access, or use the Application where doing so is prohibited by applicable law.
+
+3. Games and Third-Party Services
+
+The Application can create macros, automate actions, simulate input, and benchmark macro behavior. You are responsible for checking and following the rules, terms, and policies of every game, platform, website, application, or third-party service with which you use it. The Application is not permission from any third party to automate, bypass, or interfere with its software or services.
+
+Macros and automation may lead to warnings, restrictions, suspensions, account termination, or bans. MAXIE does not control and is not responsible for penalties imposed by games, platforms, or other third parties.
+
+4. Updates and Validation
+
+The Application may automatically check for, download, or require updates. Some updates may be mandatory for continued use. MAXIE may block or limit an installation that is modified, outdated, compromised, unauthorized, incompatible, or used abusively.
+
+Validation, integrity, API, update, premium-access, license-key, and security checks may be required for the Application or related services to operate.
+
+MAXIE may suspend, revoke, rotate, or refuse premium access or access keys where reasonably necessary to address fraud, chargebacks, payment reversal, unauthorized sharing, resale, abuse, tampering, security risk, or violation of this EULA or the Terms of Use.
+
+5. Ownership
+
+MAXIE retains all rights in the Application and its original source code, interface, documentation, and assets, except for third-party materials owned by their respective owners. No ownership rights are transferred to you under this EULA.
+
+6. Termination
+
+This license ends automatically if you materially violate this EULA. After termination, you must stop using and uninstall the Application. MAXIE may also suspend related online access, including premium access, where reasonably necessary to protect the Application, users, or services.
+
+7. Disclaimer
+
+To the extent permitted by law, the Application is provided "as is" and "as available." MAXIE does not guarantee uninterrupted availability, compatibility with every device or third-party service, accuracy, error-free operation, or that every defect will be corrected.
+
+8. Limitation of Liability
+
+To the extent permitted by law, MAXIE will not be liable for indirect, incidental, special, or consequential loss arising from use of, inability to use, or misuse of the Application, including account penalties, lost data, lost opportunities, or software conflicts. Where liability cannot legally be excluded, it is limited only to the extent permitted by applicable law. Nothing in this EULA excludes rights or liability that Philippine law does not allow to be excluded.
+
+9. Governing Law
+
+This EULA is governed by the laws of the Republic of the Philippines, without limiting any mandatory consumer, privacy, or other rights you may have under the laws that apply in your country, state, province, or region.
+
+10. Contact
+
+Developer: {{DEVELOPER_ALIAS}}  
+Website: {{WEBSITE}}  
+Email: {{SUPPORT_EMAIL}}
+

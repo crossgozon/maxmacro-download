@@ -1,0 +1,27 @@
+﻿Third-Party Notices
+
+This file lists third-party components used by the {{APP_NAME}} Maxmacro
+desktop release package and related embedded runtime assets. Each component is
+used under the terms of its own license.
+
+Release Package Components
+
+ param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
+ param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
+ param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
+ param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
+ param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
+ param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
+Build-Time Components
+
+The following tools are used to build or weave the Maxmacro app but are not
+intended as standalone files in the public Maxmacro ZIP:
+
+ param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
+ param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
+ param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
+ param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
+Full license terms are available from the linked project license pages and are
+included or referenced here to preserve third-party copyright and license
+notices for the public release.
+
