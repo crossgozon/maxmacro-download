@@ -1,27 +1,23 @@
-﻿Third-Party Notices
+Third-Party Notices
 
-This file lists third-party components used by the {{APP_NAME}} Maxmacro
+This file lists third-party components used by the {{APP_NAME}}
 desktop release package and related embedded runtime assets. Each component is
 used under the terms of its own license.
 
 Release Package Components
 
- param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
- param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
- param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
- param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
- param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
- param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
+- FontAwesome.WPF 4.7.0.9 - MIT License - https://github.com/charri/Font-Awesome-WPF/
+- gong-wpf-dragdrop 4.0.0 - BSD 3-Clause License - https://github.com/punker76/gong-wpf-dragdrop
+- Microsoft.Web.WebView2 1.0.3537.50 - Microsoft redistributable license - https://aka.ms/webview
+
 Build-Time Components
 
-The following tools are used to build or weave the Maxmacro app but are not
-intended as standalone files in the public Maxmacro ZIP:
+The following tools are used to build or weave the {{APP_NAME}} app but are not
+intended as standalone files in the public {{APP_NAME}} ZIP:
 
- param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
- param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
- param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
- param($m) ($m.Groups[1].Value -replace '\s*\|\s*',' | ') 
+- Fody 6.9.3 - MIT License - https://github.com/Fody/Fody
+- Costura.Fody 6.2.0 - MIT License - https://github.com/Fody/Costura
+
 Full license terms are available from the linked project license pages and are
 included or referenced here to preserve third-party copyright and license
 notices for the public release.
-
