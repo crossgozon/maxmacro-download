@@ -13,7 +13,7 @@ The exact information processed depends on the features you use. The Application
 
 Network and service information
 
-Servers and infrastructure providers may process your IP address, request time, requested endpoint, response status, and basic network or security-log information when the Application checks configuration, validates an installation, sends a heartbeat, checks for updates, downloads content, uploads a report, or accesses the website.
+Servers and infrastructure providers may process your IP address, request time, requested endpoint, response status, and basic network or security-log information when the Application checks configuration, validates an installation, sends a heartbeat, checks for updates, downloads content, submits a report, or accesses the website.
 
 This information is used to deliver requests, secure the Services, prevent abuse, diagnose failures, and maintain availability. Basic request logging is normally required for online Services to operate securely.
 
@@ -71,7 +71,7 @@ Where a legal basis is required, MAXIE processes information as needed to provid
 
 3. Retention
 
-Different records may require different retention periods. Operational request logs, validation and heartbeat records, security events, diagnostic logs, crash reports, uploaded reports, and account or device-status records are retained only for the period reasonably needed for their stated purpose, security, troubleshooting, backups, and legal obligations.
+Different records may require different retention periods. Operational request logs, validation and heartbeat records, security events, diagnostic logs, crash reports, submitted reports, and account or device-status records are retained only for the period reasonably needed for their stated purpose, security, troubleshooting, backups, and legal obligations.
 
 Records used to protect the Application and Services, including device-status records, validation records, security events, integrity events, abuse-prevention records, and support history, may be retained while the relevant installation, security issue, support request, legal obligation, or Service remains active, and for a reasonable period afterward where needed for security, fraud prevention, troubleshooting, backups, or legal claims.
 
