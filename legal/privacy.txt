@@ -38,11 +38,11 @@ The Application may process validation results, integrity-check results, executa
 
 This information is used to protect the Application and Services, investigate abuse, prevent modified or unsafe installations from connecting, and support security or repair actions. It may be required for protected online features to work.
 
-Diagnostics, logs, crash information, and reports
+Diagnostics, logs, crash information, and report submission
 
-When diagnostic reporting or an upload feature is used, the Application may process application version, hashed machine identifier, device identifier, diagnostic level and message, error or crash details, timestamps, and relevant application state. A user-initiated report upload may also include the generated report content, computer name, Windows username, operating-system information, and report metadata.
+When diagnostic reporting or report submission is used, the Application may process application version, hashed machine identifier, device identifier, diagnostic level and message, error or crash details, timestamps, and relevant application state. User-initiated report submission may also include the generated report content, computer name, Windows username, operating-system information, and report metadata.
 
-This information is used to troubleshoot errors, investigate security or compatibility problems, support users, and deliver requested report functionality. Optional user-initiated uploads are not required for unrelated local macro functions, while limited operational or security logs may be required for connected Services.
+This information is used to troubleshoot errors, investigate security or compatibility problems, support users, and deliver requested report functionality. Optional user-initiated report submission is not required for unrelated local macro functions, while limited operational or security logs may be required for connected Services.
 
 Payment and premium-access information
 
